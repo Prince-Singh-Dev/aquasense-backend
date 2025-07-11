@@ -1,4 +1,3 @@
-// memoryStore.js
 let command = "OFF";
 let status = "unknown";
 let level = 0;
